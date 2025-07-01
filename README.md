@@ -1,2 +1,2 @@
-# srp-api
-repo for admin data
+# srp-admin
+this repo contains the admin service for srpsolutions
