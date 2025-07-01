@@ -141,3 +141,7 @@ export const products = [
     _base: cat.batteries,
   },
 ];
+
+export const blogsData = [];
+
+export const highlightsProducts = [];
