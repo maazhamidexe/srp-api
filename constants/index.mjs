@@ -87,7 +87,7 @@ export const products = [
     _id: 2003,
     name: "Fronus PV 7200 Infineon Reborn Solar Inverter",
     images: [
-      "https://vmrlsjhqqwgwfunudeff.supabase.co/storage/v1/object/public/products/fronus.jpg"
+      "https://tse4.mm.bing.net/th/id/OIP.GpVKodqjIYF5kCE6cFTeHwHaHa?cb=thvnextc2&w=800&h=800&rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
     description: "Fronus PV 7200 Infineon Reborn is a high-performance solar inverter with stable output.",
     regularPrice: 145000,
@@ -106,7 +106,8 @@ export const products = [
     _id: 2004,
     name: "Longi 585w solar panel",
     images: [
-      "https://vmrlsjhqqwgwfunudeff.supabase.co/storage/v1/object/public/products/longi.jpg"
+      "https://vmrlsjhqqwgwfunudeff.supabase.co/storage/v1/object/public/products/longi.jpg",
+      "https://tse4.mm.bing.net/th/id/OIP.GpVKodqjIYF5kCE6cFTeHwHaHa?cb=thvnextc2&w=800&h=800&rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
     description: "",
     regularPrice: 17000,
@@ -125,7 +126,7 @@ export const products = [
     _id: 2005,
     name: "Max Power MP 10000 Ultra 10.5kWh Lithium-ion Solar Battery",
     images: [
-      "https://vmrlsjhqqwgwfunudeff.supabase.co/storage/v1/object/public/products/maxpower10.jpg"
+      "https://tse3.mm.bing.net/th/id/OIP.2utxugFjjTO6vtE5uRHw_gHaHa?cb=thvnextc2&rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
     description: "Powerful 10.5kWh lithium-ion battery for solar backup with superior longevity.",
     regularPrice: 0,
