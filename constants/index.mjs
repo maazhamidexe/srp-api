@@ -3,10 +3,18 @@ const cat = {
   batteries: "batteries",
   panels: "panels",
   appliances: "appliances",
+  windmills:"windmills",
   accessories: "accessories",
 };
 
 export const categories = [
+  {
+    _id: 1006,
+    name: "Windmills",
+    image: "https://ibb.co/1f7sGsX5",
+    description: "High-efficiency windmills for residential and commercial use.",
+    _base: "windmills",
+  },
   {
     _id: 1001,
     name: "Inverters",
@@ -66,6 +74,26 @@ export const products = [
   },
   {
     _id: 2002,
+    name: "xyz SL IV Plus 6.2KW Hybrid Solar Inverter",
+    images: [
+      "https://vmrlsjhqqwgwfunudeff.supabase.co/storage/v1/object/public/products/sunlife.jpg",
+      "https://ibb.co/1f7sGsX5"
+    ],
+    description: "SunLife SL IV Plus (6.2KW) is a smart hybrid solar inverter for efficient power use.",
+    regularPrice: 145000,
+    discountedPrice: 138000,
+    quantity: 0,
+    rating: 0.0,
+    reviews: 0,
+    category: "Inverters",
+    brand: "Sunlife",
+    isStock: true,
+    overView: "",
+    isNew: true,
+    _base: cat.inverters,
+  },
+  {
+    _id: 2006,
     name: "Max Power MP 16000 Ultra 16kWh Lithium-ion Solar Battery",
     images: [
       "https://vmrlsjhqqwgwfunudeff.supabase.co/storage/v1/object/public/products/maxpower16.jpg"
