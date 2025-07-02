@@ -188,6 +188,25 @@ export const products = [
   isNew: true,
   _base: "inverters"
 }
+{
+  _id: 2008,
+  name: "SunLife SL-AXPERT VMIII 4KW Hybrid Inverter",
+  images: [
+    "https://scontent.fisb3-3.fna.fbcdn.net/v/t39.30808-6/484326462_623181767145250_5175611503980594898_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHdmvuXPTO2iFdDRKnj7BnhKyRYcm9_5N8rJFhyb3_k346d7IIIxibHn7YzfPSkiKABV7WTBYvcpkVrjDon9Go8&_nc_ohc=HMoKptYHNkkQ7kNvwHl6L9K&_nc_oc=AdlF6L6pepcQ2A3pwEMoKV0lpX2xNgwNo-vbvsqJ7fKgvXRZ8KGKAz7zeKQB4Uy2opU&_nc_zt=23&_nc_ht=scontent.fisb3-3.fna&_nc_gid=8nzFh9lJgQB9ns00KZFc-Q&oh=00_AfO44rjD1U3pSb2uWqtU_vDutCEBl7bBE6DnTal1zkosjQ&oe=686B5992"
+  ],
+  description: "The SL-AXPERT VMIII 4KW is a powerful hybrid solar inverter by SunLife Solar. It supports a max PV input of 5000W with MPPT voltage range from 60–450VDC. Featuring dual output, built-in BMS for lithium batteries, a 24VDC 120A battery input, and app-based monitoring. Backed by a 2-year warranty (1-year parts, 1-year service). Perfect for homes seeking reliable solar integration.",
+  regularPrice: 185000,
+  discountedPrice: 172500,
+  quantity: 8,
+  rating: 5.0,
+  reviews: 11,
+  category: "Inverters",
+  brand: "Sunlife",
+  isStock: true,
+  overView: "Hybrid inverter with intelligent power delivery and lithium compatibility.",
+  isNew: true,
+  _base: "inverters"
+}  
 ];
 
 export const blogsData = [];
