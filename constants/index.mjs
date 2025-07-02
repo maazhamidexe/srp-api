@@ -206,7 +206,26 @@ export const products = [
   overView: "Hybrid inverter with intelligent power delivery and lithium compatibility.",
   isNew: true,
   _base: "inverters"
-}  
+},
+  {
+  _id: 2009,
+  name: "SunLife SL IV 4.2KW Hybrid Solar Inverter",
+  images: [
+    "https://scontent.fisb3-4.fna.fbcdn.net/v/t39.30808-6/484559017_622322077231219_3854005917779787325_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHezN1eHc0yB4GjItQFdPE19jOfeKUdvo72M594pR2-jhqvRHL-PBPDNcJVJxQ-Eq1urBmS0BzAYlJi062M-_gF&_nc_ohc=aCoz_KyciQcQ7kNvwHmwLoo&_nc_oc=AdlHuYtcilBSddOoDmh9SKSrtVdmOnM1vzFhvXZ_bIFBXFGHC5QZYzo6g94aDNrnvjM&_nc_zt=23&_nc_ht=scontent.fisb3-4.fna&_nc_gid=dutQ0jkhfdIc9XWZ-YL4Ow&oh=00_AfNA5Xqk4P-420vDfbsYTFk7Dv570a22CjlT_Cq-JXMfKw&oe=686B47C6"
+  ],
+  description: "SunLife SL IV 4.2KW is a robust hybrid off-grid solar inverter engineered for demanding power needs. With a pure sine wave output, 5500W maximum PV input, and a high-capacity battery input of 24VDC at 175A, it's perfect for residential and commercial solar setups. Features MPPT range from 90–450VDC, RGB LED status indicators, WiFi/GPRS connectivity, and monitoring via mobile app. Covered by a 2-year warranty (1 year parts + 1 year service).",
+  regularPrice: 189000,
+  discountedPrice: 179500,
+  quantity: 6,
+  rating: 4.9,
+  reviews: 14,
+  category: "Inverters",
+  brand: "Sunlife",
+  isStock: true,
+  overView: "Power-packed hybrid inverter with intelligent monitoring and strong battery support.",
+  isNew: true,
+  _base: "inverters"
+}
 ];
 
 export const blogsData = [];
