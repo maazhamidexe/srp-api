@@ -187,7 +187,7 @@ export const products = [
   overView: "",
   isNew: true,
   _base: "inverters"
-}
+},
 {
   _id: 2008,
   name: "SunLife SL-AXPERT VMIII 4KW Hybrid Inverter",
