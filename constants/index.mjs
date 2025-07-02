@@ -55,16 +55,17 @@ export const categories = [
 export const products = [
   {
     _id: 2001,
-    name: "SunLife SL IV Plus 6.2KW Hybrid Solar Inverter",
+    name: "SunLife Solar SUNPRO 1.5KW is an efficient off-grid inverter",
     images: [
-      "https://vmrlsjhqqwgwfunudeff.supabase.co/storage/v1/object/public/products/sunlife.jpg"
+      "https://scontent.fisb3-2.fna.fbcdn.net/v/t39.30808-6/494543837_658660063597420_8612904885285249204_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHj6aqdN4smRZB1v501W9nhjwBOZgY7oBGPAE5mBjugEdMyHBvLmXLDVcPDgaYwBIQ9XB3_vlBH6kpZAGss1lPL&_nc_ohc=m0WgZwLcf74Q7kNvwF5UtCZ&_nc_oc=Adlol23T59rLr5JWLykfjc7g6Q3xRkjyiVyGFoGKTq-a-6iWlzgQWgmAHBxGukFtGZM&_nc_zt=23&_nc_ht=scontent.fisb3-2.fna&_nc_gid=hxevo7BdJNCvPAIPyuSHZw&oh=00_AfOWfHzVHwPfbIzip7e_Hjf3HlkFrDGQ7nfW1aP7IOfCOw&oe=686B0164"
     ],
-    description: "SunLife SL IV Plus (6.2KW) is a smart hybrid solar inverter for efficient power use.",
+    description: "SunLife Solar SUNPRO 1.5KW is an efficient off-grid inverter tailored for 12V battery systems, ideal for small-scale solar setups. It delivers 1500W rated power, handles up to 2000W PV input, and operates within a wide MPPT range (60–430VDC). With a max solar voltage of 450VDC and backed by a 2-year warranty (1-year parts + 1-year service), it's built for reliable performance in homes or remote areas.
+",
     regularPrice: 145000,
     discountedPrice: 138000,
-    quantity: 0,
-    rating: 0.0,
-    reviews: 0,
+    quantity: 10,
+    rating: 5.0,
+    reviews: 9,
     category: "Inverters",
     brand: "Sunlife",
     isStock: true,
