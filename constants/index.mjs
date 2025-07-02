@@ -169,6 +169,24 @@ export const products = [
     isNew: true,
     _base: cat.batteries,
   },
+  {
+    _id: 2007,
+    name: "SunLife Solar SUNPRO SL 3.0KW is a reliable off-grid inverter",
+    images: [
+      "https://scontent.fisb3-2.fna.fbcdn.net/v/t39.30808-6/494351720_658660083597418_4440778173290433364_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=1-7&_nc_sid=50ad20&_nc_eui2=AeHSIw85vuHurWa8OLawI2mG5m0udW-NgkrmbS51b42CSn7re0foN1UC772eMeByfS84P9UHB6yWice9wP8nAh6G&_nc_ohc=OOUHon35OaAQ7kNvwEBZnvj&_nc_oc=AdlOFuwcKYp7mr7MZ42Rz97no6QeJmSzmMCtC1S96H7cdI2CMvfRo4v2PXV8ft0xQms&_nc_zt=23&_nc_ht=scontent.fisb3-2.fna&_nc_gid=pZodY6nLZFOUxEiQLngsQg&oh=00_AfOYaKdgu8UjoF0WAmc_qx35wZZ5Y_6YMpVv-rwCWdBCww&oe=686B37D5"],
+    description: "SunLife Solar SUNPRO SL 3.0KW is a reliable off-grid inverter designed for 24V battery systems, delivering 3000W rated power with a maximum 4000W PV input. It supports operation with or without batteries, offers pure sine wave output, and includes smart features like MPPT (60–430VDC), cold start, and RGB LED status indicators. Built for resilience, it’s backed by a 2-year warranty (1-year parts + 1-year service).",
+    regularPrice: 145000,
+    discountedPrice: 138000,
+    quantity: 10,
+    rating: 5.0,
+    reviews: 09,
+    category: "Inverters",
+    brand: "Sunlife",
+    isStock: true,
+    overView: "",
+    isNew: true,
+    _base: cat.inverters,
+  },
 ];
 
 export const blogsData = [];
